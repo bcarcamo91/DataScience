@@ -1,2 +1,2 @@
-# DS-Main
-# This repository contains my miscellaneous data science related files. 
+# ML-Main
+# This repository contains machine learning related files. 
